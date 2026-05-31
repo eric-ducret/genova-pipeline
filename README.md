@@ -51,6 +51,6 @@ Each variant is analyzed independently using specialized tools (literature retri
  
 ## Status
  
-Under active development — not publicly available yet.
+Under active development - not publicly available yet.
  
 Contact: eric.ducret@unil.ch

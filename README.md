@@ -25,23 +25,23 @@ Patient description + Variant CSV
                 │
                 ▼
         ┌───────────────┐
-        │  Normalization │
+        │ Normalization │
         └───────┬───────┘
                 │
                 ▼
      ┌─────────────────────┐
-     │  Per-variant analysis │  ← database lookups, splicing
-     │                       │    prediction, literature search
+     │Per-variant analysis │  ← database lookups, splicing
+     │                     │    prediction, literature search
      └──────────┬──────────┘
                 │
                 ▼
      ┌─────────────────────┐
-     │  Clinical reasoning  │  ← integrates all evidence
+     │ Clinical reasoning  │  ← integrates all evidence
      └──────────┬──────────┘
                 │
                 ▼
      ┌─────────────────────┐
-     │  Structured report   │
+     │ Structured report   │
      └─────────────────────┘
 ```
  
